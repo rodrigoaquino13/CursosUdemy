@@ -1,0 +1,14 @@
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\bin\Debug\netcoreapp2.2\CursoUdemy.deps.json
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\bin\Debug\netcoreapp2.2\CursoUdemy.runtimeconfig.json
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\bin\Debug\netcoreapp2.2\CursoUdemy.runtimeconfig.dev.json
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\bin\Debug\netcoreapp2.2\CursoUdemy.dll
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\bin\Debug\netcoreapp2.2\CursoUdemy.pdb
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\obj\Debug\netcoreapp2.2\CursoUdemy.csprojAssemblyReference.cache
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\obj\Debug\netcoreapp2.2\CursoUdemy.csproj.CoreCompileInputs.cache
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\obj\Debug\netcoreapp2.2\CursoUdemy.RazorAssemblyInfo.cache
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\obj\Debug\netcoreapp2.2\CursoUdemy.RazorAssemblyInfo.cs
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\obj\Debug\netcoreapp2.2\CursoUdemy.AssemblyInfoInputs.cache
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\obj\Debug\netcoreapp2.2\CursoUdemy.AssemblyInfo.cs
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\obj\Debug\netcoreapp2.2\CursoUdemy.RazorTargetAssemblyInfo.cache
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\obj\Debug\netcoreapp2.2\CursoUdemy.dll
+F:\CursosUdemy\CursosUdemy\CursoUdemy\CursoUdemy\obj\Debug\netcoreapp2.2\CursoUdemy.pdb
